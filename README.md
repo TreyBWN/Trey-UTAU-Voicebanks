@@ -15,3 +15,6 @@ no derivatives without permission
 NO USING THIS VOICEBANK, OR CHARACTER FOR ANYTHING RELATED TO HATE SPEECH
 
 ONLY TRUST OFFICIAL TREY VOICEBANKS FROM HERE!!! if unoffical ones are made, and i like em, ill link them here :3
+
+# UNOFFICAL VOICEBANKS
+none yet :3
