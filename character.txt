@@ -1,0 +1,5 @@
+name=Trey v1
+voice=Trey Because Why Not
+sample=sample.wav
+author=Trey Because Why Not
+version=1.0
