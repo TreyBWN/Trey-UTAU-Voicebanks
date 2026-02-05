@@ -1,14 +1,16 @@
-# Trey-UTAU-Voicebanks
+# Trey-UTAU-Voicebank!!!
+
+heyyy
 
 # TERMS OF USE!
 
 CONTENT MADE FOR ADULTS (18+) MAY BE MADE WITH THIS VOICEBANK (CONTENT ILLEGAL IN THE UNITED STATES OF AMERICA HOWEVER IS STRICTLY FORBIDDEN, EVEN IF USER LIVES OUTSIDE OF UNITED STATES OF AMERICA.)
 
-COMMERCIAL USE OF Trey (The character, and voice) MUST BE ALLOWED BY ME. (honestly just contact me, we talk about what u doin, and ill probably allow it :P)
+COMMERCIAL USE OF Trey (The character, and voice) MUST BE ALLOWED BY ME.
 
-USING Trey v1, or ANY FUTURE UPDATES MATERIAL TO TRAIN GENERATIVE AI (INCLUDING BUT IS NOT LIMITED TO ANY IMAGE GENERATORS, OR VOICE CLONERS SUCH AS RVC) IS STRICTLY FORBIDEN. except for like making a diffsinger of trey, as long as its publicly available for all to use, ill allow it!
+USING Trey v1, or ANY FUTURE UPDATES MATERIAL TO TRAIN GENERATIVE AI (INCLUDING BUT IS NOT LIMITED TO ANY IMAGE GENERATORS, OR VOICE CLONERS SUCH AS RVC) IS STRICTLY FORBIDEN.
 
-USING Trey v1's SOUND DATA TO MAKE RVC MADE VOICEBANKS IS STRICTLY FORBIDDEN
+USING Trey v1's SOUND DATA TO CREATE RVC MADE VOICEBANKS IS STRICTLY FORBIDDEN
 
 no derivatives without permission
 
@@ -16,8 +18,5 @@ NO USING THIS VOICEBANK, OR CHARACTER FOR ANYTHING RELATED TO HATE SPEECH
 
 ONLY TRUST OFFICIAL TREY VOICEBANKS FROM HERE!!! if unoffical ones are made, and i like em, ill link them here :3
 
-go here for images and info!
+go here for images and info! (warning, intentionally terrible website)
 https://treyutau.straw.page/
-
-# UNOFFICAL VOICEBANKS
-none yet :3
