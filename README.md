@@ -1,9 +1,13 @@
 # Trey-UTAU-Voicebank!!!
 
 CVVC JP + C+V ARPA (better arpa soon!)
+
 DEFAULT: bad (dont use unless c+v eng)
+
 ALT (JP ONLY): gud, yummy sound!!!
+
 SILLY (C+V ONLY) silly, made as joke
+
 XBL MIC (named xbla mic in software for v1 cuz ima dum, C+V ONLY) it sounds like...bad
 
 # TERMS OF USE!
